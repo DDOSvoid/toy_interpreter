@@ -1,0 +1,98 @@
+[
+{
+  "directory": "D:/cpp/interpreter/void/build",
+  "command": "D:\\msys64\\mingw64\\bin\\c++.exe -ID:/cpp/interpreter/void/src/void/include -O3 -DNDEBUG -std=c++17 -o bin\\void\\CMakeFiles\\void_obj.dir\\token.cpp.obj -c D:\\cpp\\interpreter\\void\\src\\void\\token.cpp",
+  "file": "D:\\cpp\\interpreter\\void\\src\\void\\token.cpp",
+  "output": "bin\\void\\CMakeFiles\\void_obj.dir\\token.cpp.obj"
+},
+{
+  "directory": "D:/cpp/interpreter/void/build",
+  "command": "D:\\msys64\\mingw64\\bin\\c++.exe -ID:/cpp/interpreter/void/src/void/include -O3 -DNDEBUG -std=c++17 -o bin\\void\\CMakeFiles\\void_obj.dir\\lexer.cpp.obj -c D:\\cpp\\interpreter\\void\\src\\void\\lexer.cpp",
+  "file": "D:\\cpp\\interpreter\\void\\src\\void\\lexer.cpp",
+  "output": "bin\\void\\CMakeFiles\\void_obj.dir\\lexer.cpp.obj"
+},
+{
+  "directory": "D:/cpp/interpreter/void/build",
+  "command": "D:\\msys64\\mingw64\\bin\\c++.exe -ID:/cpp/interpreter/void/src/void/include -O3 -DNDEBUG -std=c++17 -o bin\\void\\CMakeFiles\\void_obj.dir\\ast.cpp.obj -c D:\\cpp\\interpreter\\void\\src\\void\\ast.cpp",
+  "file": "D:\\cpp\\interpreter\\void\\src\\void\\ast.cpp",
+  "output": "bin\\void\\CMakeFiles\\void_obj.dir\\ast.cpp.obj"
+},
+{
+  "directory": "D:/cpp/interpreter/void/build",
+  "command": "D:\\msys64\\mingw64\\bin\\c++.exe -ID:/cpp/interpreter/void/src/void/include -O3 -DNDEBUG -std=c++17 -o bin\\void\\CMakeFiles\\void_obj.dir\\parser.cpp.obj -c D:\\cpp\\interpreter\\void\\src\\void\\parser.cpp",
+  "file": "D:\\cpp\\interpreter\\void\\src\\void\\parser.cpp",
+  "output": "bin\\void\\CMakeFiles\\void_obj.dir\\parser.cpp.obj"
+},
+{
+  "directory": "D:/cpp/interpreter/void/build",
+  "command": "D:\\msys64\\mingw64\\bin\\c++.exe -ID:/cpp/interpreter/void/src/void/include -O3 -DNDEBUG -std=c++17 -o bin\\void\\CMakeFiles\\void_obj.dir\\object.cpp.obj -c D:\\cpp\\interpreter\\void\\src\\void\\object.cpp",
+  "file": "D:\\cpp\\interpreter\\void\\src\\void\\object.cpp",
+  "output": "bin\\void\\CMakeFiles\\void_obj.dir\\object.cpp.obj"
+},
+{
+  "directory": "D:/cpp/interpreter/void/build",
+  "command": "D:\\msys64\\mingw64\\bin\\c++.exe -ID:/cpp/interpreter/void/src/void/include -O3 -DNDEBUG -std=c++17 -o bin\\void\\CMakeFiles\\void_obj.dir\\evaluator.cpp.obj -c D:\\cpp\\interpreter\\void\\src\\void\\evaluator.cpp",
+  "file": "D:\\cpp\\interpreter\\void\\src\\void\\evaluator.cpp",
+  "output": "bin\\void\\CMakeFiles\\void_obj.dir\\evaluator.cpp.obj"
+},
+{
+  "directory": "D:/cpp/interpreter/void/build",
+  "command": "D:\\msys64\\mingw64\\bin\\c++.exe -ID:/cpp/interpreter/void/src/void/include -O3 -DNDEBUG -std=c++17 -o bin\\void\\CMakeFiles\\void_obj.dir\\builtin.cpp.obj -c D:\\cpp\\interpreter\\void\\src\\void\\builtin.cpp",
+  "file": "D:\\cpp\\interpreter\\void\\src\\void\\builtin.cpp",
+  "output": "bin\\void\\CMakeFiles\\void_obj.dir\\builtin.cpp.obj"
+},
+{
+  "directory": "D:/cpp/interpreter/void/build",
+  "command": "D:\\msys64\\mingw64\\bin\\c++.exe -ID:/cpp/interpreter/void/src/void/include -O3 -DNDEBUG -std=c++17 -o bin\\void_cli\\CMakeFiles\\void_cli.dir\\repl.cpp.obj -c D:\\cpp\\interpreter\\void\\src\\void_cli\\repl.cpp",
+  "file": "D:\\cpp\\interpreter\\void\\src\\void_cli\\repl.cpp",
+  "output": "bin\\void_cli\\CMakeFiles\\void_cli.dir\\repl.cpp.obj"
+},
+{
+  "directory": "D:/cpp/interpreter/void/build",
+  "command": "D:\\msys64\\mingw64\\bin\\c++.exe -ID:/cpp/interpreter/void/src/void/include -isystem D:/cpp/interpreter/void/build/_deps/googletest-src/googletest/include -isystem D:/cpp/interpreter/void/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=c++17 -o test\\CMakeFiles\\unit_test.dir\\token_test.cpp.obj -c D:\\cpp\\interpreter\\void\\test\\token_test.cpp",
+  "file": "D:\\cpp\\interpreter\\void\\test\\token_test.cpp",
+  "output": "test\\CMakeFiles\\unit_test.dir\\token_test.cpp.obj"
+},
+{
+  "directory": "D:/cpp/interpreter/void/build",
+  "command": "D:\\msys64\\mingw64\\bin\\c++.exe -ID:/cpp/interpreter/void/src/void/include -isystem D:/cpp/interpreter/void/build/_deps/googletest-src/googletest/include -isystem D:/cpp/interpreter/void/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=c++17 -o test\\CMakeFiles\\unit_test.dir\\lexer_test.cpp.obj -c D:\\cpp\\interpreter\\void\\test\\lexer_test.cpp",
+  "file": "D:\\cpp\\interpreter\\void\\test\\lexer_test.cpp",
+  "output": "test\\CMakeFiles\\unit_test.dir\\lexer_test.cpp.obj"
+},
+{
+  "directory": "D:/cpp/interpreter/void/build",
+  "command": "D:\\msys64\\mingw64\\bin\\c++.exe -ID:/cpp/interpreter/void/src/void/include -isystem D:/cpp/interpreter/void/build/_deps/googletest-src/googletest/include -isystem D:/cpp/interpreter/void/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=c++17 -o test\\CMakeFiles\\unit_test.dir\\parser_test.cpp.obj -c D:\\cpp\\interpreter\\void\\test\\parser_test.cpp",
+  "file": "D:\\cpp\\interpreter\\void\\test\\parser_test.cpp",
+  "output": "test\\CMakeFiles\\unit_test.dir\\parser_test.cpp.obj"
+},
+{
+  "directory": "D:/cpp/interpreter/void/build",
+  "command": "D:\\msys64\\mingw64\\bin\\c++.exe -ID:/cpp/interpreter/void/src/void/include -isystem D:/cpp/interpreter/void/build/_deps/googletest-src/googletest/include -isystem D:/cpp/interpreter/void/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=c++17 -o test\\CMakeFiles\\unit_test.dir\\evaluator_test.cpp.obj -c D:\\cpp\\interpreter\\void\\test\\evaluator_test.cpp",
+  "file": "D:\\cpp\\interpreter\\void\\test\\evaluator_test.cpp",
+  "output": "test\\CMakeFiles\\unit_test.dir\\evaluator_test.cpp.obj"
+},
+{
+  "directory": "D:/cpp/interpreter/void/build",
+  "command": "D:\\msys64\\mingw64\\bin\\c++.exe -ID:/cpp/interpreter/void/build/_deps/googletest-src/googlemock/include -ID:/cpp/interpreter/void/build/_deps/googletest-src/googlemock -isystem D:/cpp/interpreter/void/build/_deps/googletest-src/googletest/include -isystem D:/cpp/interpreter/void/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=c++17 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps\\googletest-build\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c D:\\cpp\\interpreter\\void\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc",
+  "file": "D:\\cpp\\interpreter\\void\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc",
+  "output": "_deps\\googletest-build\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj"
+},
+{
+  "directory": "D:/cpp/interpreter/void/build",
+  "command": "D:\\msys64\\mingw64\\bin\\c++.exe -isystem D:/cpp/interpreter/void/build/_deps/googletest-src/googlemock/include -isystem D:/cpp/interpreter/void/build/_deps/googletest-src/googlemock -isystem D:/cpp/interpreter/void/build/_deps/googletest-src/googletest/include -isystem D:/cpp/interpreter/void/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=c++17 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps\\googletest-build\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c D:\\cpp\\interpreter\\void\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc",
+  "file": "D:\\cpp\\interpreter\\void\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc",
+  "output": "_deps\\googletest-build\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj"
+},
+{
+  "directory": "D:/cpp/interpreter/void/build",
+  "command": "D:\\msys64\\mingw64\\bin\\c++.exe -ID:/cpp/interpreter/void/build/_deps/googletest-src/googletest/include -ID:/cpp/interpreter/void/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=c++17 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps\\googletest-build\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c D:\\cpp\\interpreter\\void\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "file": "D:\\cpp\\interpreter\\void\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "output": "_deps\\googletest-build\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj"
+},
+{
+  "directory": "D:/cpp/interpreter/void/build",
+  "command": "D:\\msys64\\mingw64\\bin\\c++.exe -isystem D:/cpp/interpreter/void/build/_deps/googletest-src/googletest/include -isystem D:/cpp/interpreter/void/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=c++17 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps\\googletest-build\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c D:\\cpp\\interpreter\\void\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc",
+  "file": "D:\\cpp\\interpreter\\void\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc",
+  "output": "_deps\\googletest-build\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj"
+}
+]
